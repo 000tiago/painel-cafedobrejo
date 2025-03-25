@@ -118,3 +118,9 @@ p {
 p {
     margin-bottom: 20px; /* Adiciona espaço sem precisar de <br> */
 }
+
+@media (max-width: 768px) { /* Ajuste para telas menores, como celulares */
+    .content-box {
+        width: 63%;
+    }
+}
