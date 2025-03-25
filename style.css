@@ -22,7 +22,7 @@ body, html {
     width: 100%;
     height: 100%;
     z-index: -1;
-    background: url('/CAFe/extra/backg.png') center/cover no-repeat;
+    background: url('/extra/backg.png') center/cover no-repeat;
 }
 
 .background video {
